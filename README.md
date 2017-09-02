@@ -8,7 +8,7 @@
 
 # 3. build
 
-## yarn start
+## yarn start or npm start
 
 # 4.react-scripts
 It gives all other deps like babel, css-loader etc. for seeing those, do 'yarn eject'
@@ -26,3 +26,13 @@ It gives all other deps like babel, css-loader etc. for seeing those, do 'yarn e
 # 7. install mobx
 
 ## yarn add mobx
+
+# 8. run test
+
+## yarn test or npm test
+
+# 9. build for Production
+
+## yarn build or npm run build
+
+# 10. For HELP-> https://github.com/facebookincubator/create-react-app
